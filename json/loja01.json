@@ -1,0 +1,103 @@
+{
+    "nomeFilial": "CiA do Povo",
+    "local": "Gloria",
+    "estoque": {
+        "listaItemProduto": [
+            {
+                "id": 5,
+                "produto": {
+                    "preco": 17.5,
+                    "nome": "Bermuda preta",
+                    "descricao": "Bermudade de tecido preta"
+                },
+                "quantidade": 10
+            },
+            {
+                "id": 3,
+                "produto": {
+                    "preco": 29,
+                    "nome": "Bermuda azul",
+                    "descricao": "Bermudade de moletom azul"
+                },
+                "quantidade": 7
+            },
+            {
+                "id": 6,
+                "produto": {
+                    "preco": 52,
+                    "nome": "Casaco camuflado",
+                    "descricao": "Casaco com tecito estilo militar, sem z\u00EDper"
+                },
+                "quantidade": 6
+            }
+        ]
+    },
+    "listaPedidos": [
+        {
+            "cliente": "Kleber Jorge",
+            "listaItemProduto": [
+                {
+                    "id": 1,
+                    "produto": {
+                        "preco": 25.9,
+                        "nome": "Blusa branca",
+                        "descricao": "Blusa de algod\u00E3o, gola V, branca basica"
+                    },
+                    "quantidade": 3
+                },
+                {
+                    "id": 6,
+                    "produto": {
+                        "preco": 29,
+                        "nome": "Bermuda azul",
+                        "descricao": "Bermudade de moletom azul"
+                    },
+                    "quantidade": 3
+                },
+                {
+                    "id": 4,
+                    "produto": {
+                        "preco": 29,
+                        "nome": "Bermuda azul",
+                        "descricao": "Bermudade de moletom azul"
+                    },
+                    "quantidade": 7
+                }
+            ],
+            "enviado": false
+        },
+        {
+            "cliente": "Ramulo Thiago",
+            "listaItemProduto": [
+                {
+                    "id": 2,
+                    "produto": {
+                        "preco": 38.4,
+                        "nome": "Cal\u00E7a jeans",
+                        "descricao": "cal\u00E7a slim, jeans claro"
+                    },
+                    "quantidade": 1
+                },
+                {
+                    "id": 5,
+                    "produto": {
+                        "preco": 29,
+                        "nome": "Bermuda azul",
+                        "descricao": "Bermudade de moletom azul"
+                    },
+                    "quantidade": 15
+                },
+                {
+                    "id": 3,
+                    "produto": {
+                        "preco": 29,
+                        "nome": "Bermuda azul",
+                        "descricao": "Bermudade de moletom azul"
+                    },
+                    "quantidade": 6
+                }
+            ],
+            "enviado": false
+        }
+    ]
+}
